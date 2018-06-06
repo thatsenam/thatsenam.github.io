@@ -36,6 +36,7 @@ a{
 	color: white;
 }
 .jumbtron{
+  background: linear-gradient(90deg, #48459f, #8a2a5d);
 	background-image: url("https://images.pexels.com/photos/34580/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 .column{
